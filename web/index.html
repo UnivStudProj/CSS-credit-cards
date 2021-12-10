@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width image=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="eel.js"></script>
+        <script>
+           async function call() {
+               await eel.call_in_js("Hello, World!");
+           }
+           call();
+
+           eel.expose(call_in_python);
+           function call_in_python(x) {
+               console.log(x);
+           }
+
+           function send_cards() {
+               let main = document.getElementById("main");
+               // deleting input tag
+               let input = document.getElementsByTagName("input");
+               input[0].remove();
+               // whole card
+               let card = document.createElement("div");
+               card.className = "card";
+               main.appendChild(card);
+               // card inner
+               let card_inner = document.createElement("div");
+               card_inner.className = "card-inner";
+               card.appendChild(card_inner);
+               // front of the card
+               let front = document.createElement("div");
+               front.className = "front";
+               card_inner.appendChild(front);
+               // line for a chip image
+               let row = document.createElement("div");
+               row.className = "row";
+               front.append(row);
+               // chip image
+               let chip = document.createElement("img");
+               chip.src = 'images/chip.png';
+               chip.style.width = '60px';
+               row.appendChild(chip);
+               // visa title
+               let visa = document.createElement("img");
+               visa.src = 'images/visa.png';
+               visa.style.width = '80px';
+               row.appendChild(visa);
+               
+           }
+       </script> 
+    </head>
+    <body>
+        <div id="main">
+            <input id="btn" type="submit" value="Send cards info" onclick="send_cards()">
+        </div>
+    </body>
+</html>
