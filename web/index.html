@@ -4,9 +4,22 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width image=device-width, initial-scale=1.0">
         <title>Document</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
         <script src="eel.js"></script>
-        <script>
+        <script type="text/javascript">
+            var mylink = document.getElementById('btn');
+            function script_activate() {
+                let script = document.createElement('script');
+                script.type = 'text/javascript';
+                script.src = "front.js";
+                document.getElementsByTagName('head')[0].appendChild(script);
+                return false;
+            }
+        </script>
+        <!-- <script>
            async function call() {
                await eel.call_in_js("Hello, World!");
            }
@@ -16,45 +29,11 @@
            function call_in_python(x) {
                console.log(x);
            }
-
-           function send_cards() {
-               let main = document.getElementById("main");
-               // deleting input tag
-               let input = document.getElementsByTagName("input");
-               input[0].remove();
-               // whole card
-               let card = document.createElement("div");
-               card.className = "card";
-               main.appendChild(card);
-               // card inner
-               let card_inner = document.createElement("div");
-               card_inner.className = "card-inner";
-               card.appendChild(card_inner);
-               // front of the card
-               let front = document.createElement("div");
-               front.className = "front";
-               card_inner.appendChild(front);
-               // line for a chip image
-               let row = document.createElement("div");
-               row.className = "row";
-               front.append(row);
-               // chip image
-               let chip = document.createElement("img");
-               chip.src = 'images/chip.png';
-               chip.style.width = '60px';
-               row.appendChild(chip);
-               // visa title
-               let visa = document.createElement("img");
-               visa.src = 'images/visa.png';
-               visa.style.width = '80px';
-               row.appendChild(visa);
-               
-           }
-       </script> 
+           </script>  -->
     </head>
     <body>
         <div id="main">
-            <input id="btn" type="submit" value="Send cards info" onclick="send_cards()">
+            <input id="btn" type="submit" value="Send cards info" onclick="script_activate()">
         </div>
     </body>
 </html>

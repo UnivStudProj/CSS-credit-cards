@@ -1,5 +1,13 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Righteous', cursive;
+ }
+ 
  body {
     background-color: #212f45;
+    box-sizing: border-box;
 }
 
 #main {
@@ -44,10 +52,38 @@
     position: absolute;
     top: 0;
     left: 0;
+    padding: 20px 30px;
+    border-radius: 15px;    
+    overflow: hidden;
+    z-index: 1;
 }
 
 .row {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.map {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.3;
+    z-index: -1;
+}
+
+.card-no {
+    font-size: 35px;
+    margin-top: 60px;
+}
+
+.card-holder {
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+.name {
+    font-size: 22px;
+    margin-top: 20px;
 }
