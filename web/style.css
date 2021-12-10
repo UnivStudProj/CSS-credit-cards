@@ -7,17 +7,7 @@
  
  body {
     background-color: #212f45;
-    box-sizing: border-box;
 }
-
-#main {
-    text-align: center;
-    margin: 100px auto;
-    padding: 100px auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}                    
 
 #btn {
     padding: 10px;
@@ -31,6 +21,16 @@
     font-size: 21px;
     border-radius: 50px;
 }
+
+.container {
+    text-align: right;
+    margin: 100px auto;
+    padding: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}                    
+
 
 .card {
     width: 500px;
