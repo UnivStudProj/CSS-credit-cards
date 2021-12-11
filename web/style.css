@@ -9,9 +9,14 @@
     background-color: #212f45;
 }
 
-#btn {
+label {
+    display: block;
+    text-align: center;
+    line-height: 350%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
     padding: 10px;
-    margin: 10px;
     background-color: #1b3a4b;
     color: #fff;
     border: 2px solid #006466;
@@ -22,15 +27,33 @@
     border-radius: 50px;
 }
 
+#demo {
+    display: none;
+}
+
 .container {
+    opacity: 0.1;
     text-align: right;
     margin: 100px auto;
     padding: 100px auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    /* animation */
+    animation-name: container-opacity;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
 }                    
 
+@keyframes container-opacity {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
 
 .card {
     width: 500px;

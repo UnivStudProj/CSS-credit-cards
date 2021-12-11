@@ -1,9 +1,9 @@
 for (let j = 0; j < 2; j++) {
-    // deleting input tag
+    // deleting label tag
     if (j == 0) {
-    var input = document.getElementsByTagName("input");
-    input[0].remove();
-    }
+        var label = document.getElementsByTagName("label");
+        label[0].remove();
+        }
     // creating container
     var container = document.createElement("div");
     container.className = "container";
