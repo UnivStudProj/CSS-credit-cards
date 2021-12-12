@@ -1,3 +1,4 @@
 venv/
 .vscode/
-postgre/queries.txt
+data/postgre/queries.txt
+data/postgre/__pycache__
