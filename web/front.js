@@ -1,7 +1,17 @@
+
+var card_holder = "";
+var card_date = "";
+console.log(vendor_img);
+
 for (let j = 0; j < 2; j++) {
+    // getting random vendor image
+    var getImg = () => { return Math.random() > 0.5 ? "images/visa.png" : "images/mc.png" };
+    var vendor_img = getImg();
+    // random card number
+    
     // deleting label tag
     if (j == 0) {
-        var label = document.getElementsByTagName("label");
+        let label = document.getElementsByTagName("label");
         label[0].remove();
         }
     // creating container
@@ -36,7 +46,7 @@ for (let j = 0; j < 2; j++) {
     row1.appendChild(chip);
     // visa title
     var visa = document.createElement("img");
-    visa.src = 'images/visa.png';
+    visa.src = vendor_img;
     visa.style.width = '80px';
     row1.appendChild(visa);
     // card number row

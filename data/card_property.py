@@ -1,0 +1,35 @@
+import random
+import names
+import json
+
+cards_dict = {}
+# random choise between images
+image = (lambda rn: "images/visa.png" if rn >= 0.5 else "image/mc.png")(random.random())
+# random card number
+num_list = []
+# creating 4 random digits
+for rn in range(4):
+    rn_num = str(random.randint(0, 9999))
+    # adding 0 at the beginning of the number if it not 4-digit
+    while len(rn_num) != 4:
+        rn_num = '0' + rn_num[:len(rn_num)]
+    num_list.append(rn_num)
+# getting name for a carc
+card_holder = names.get_full_name()
+# generating random card date
+card_date = str(random.randint(1, 12)) + ' / ' + str(random.randint(22, 32))
+# hexadecimal color
+r = lambda: random.randint(0,255)
+gradient = ['#%02X%02X%02X' % (r(),r(),r()), '#%02X%02X%02X' % (r(),r(),r())]
+# adding cards to the dictionary 
+for i in range(100):
+    cards_dict[f"card{i}"] = {
+        "image" : image,
+        "num_list" : num_list,
+        "card_holder" : card_holder,
+        "card_date" : card_date,
+        "gradient" : gradient 
+    }
+# creating json file
+with open('cards.json', 'w') as f:
+    json.dump(cards_dict, f, indent=2)
