@@ -2,3 +2,4 @@ venv/
 .vscode/
 data/postgre/queries.txt
 data/postgre/__pycache__
+web/temp.js

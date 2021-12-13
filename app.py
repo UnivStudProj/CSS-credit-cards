@@ -5,6 +5,14 @@ from data.postgre.config import host, user, password, db_name
 eel.init("web")
 
 
+# formatting list to its normal view
+def list_format(r):
+    b_list = r.replace(' ', '').split(',')
+    b_list[0] = b_list[0][1:]
+    b_list[-1] = b_list[-1][:-1]
+    return b_list
+
+
 # Request from js
 @eel.expose
 def call_from_js(card_n):
@@ -23,12 +31,10 @@ def call_from_js(card_n):
             )
             row = cursor.fetchone()
             image = row[1]
-            num = row[2].replace(' ', '').split(',')
-            num[0] = num[0][1:]
-            num[-1] = num[-1][:-1]
+            num = list_format(row[2])
             card_holder = row[3]
             card_date = row[4]
-            gradient = row[5]
+            gradient = list_format(row[5])
     # Printing errors
     except Exception as _ex:
         print("[INFO] Error while working with PostgreSQL", _ex)
