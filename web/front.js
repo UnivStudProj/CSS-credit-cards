@@ -2,6 +2,7 @@ function cr_c(j) {
     async function call_python() {
         await eel.call_from_js(j);
     }
+    // calling python
     call_python();
     eel.expose(call_to_js); 
     function call_to_js(image, num, card_holder, card_date, gradient) {
@@ -32,7 +33,6 @@ function cr_c(j) {
         gr = `linear-gradient(45deg, ${gr_start}, ${gr_end})` 
         fr = document.getElementsByClassName("front")
         fr[j].style.backgroundImage = gr;
-        console.log(fr);
         // world img
         var map = document.createElement("img");
         map.className = "map";
@@ -82,13 +82,16 @@ function cr_c(j) {
         var p_name_value = document.createElement("p");
         p_name_value.innerHTML = card_date;
         row4.appendChild(p_name_value);
+        // scroll to the created card
+        document.getElementsByClassName('container')[j].scrollIntoView();
     }
 }
 
+// interval for card build
 var j = 0;
 setInterval(function() { 
     if (j != 99) {
-        cr_c(j); 
+        cr_c(j);
         j++; 
     } else {
         clearInterval();
