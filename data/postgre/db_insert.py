@@ -12,7 +12,7 @@ try:
     )
     
     connection.autocommit = True
-    
+    # Inserting data to the database
     with open('data/cards.json') as f:
         jsn = json.load(f)
         for card in jsn:

@@ -6,7 +6,7 @@ cards_dict = {}
 # adding cards to the dictionary 
 for i in range(100):
     # random choise between images
-    image = (lambda rn: "images/visa.png" if rn >= 0.5 else "image/mc.png")(random.random())
+    image = (lambda rn: "images/visa.png" if rn >= 0.5 else "images/mc.png")(random.random())
     # random card number
     num_list = []
     # creating 4 random digits

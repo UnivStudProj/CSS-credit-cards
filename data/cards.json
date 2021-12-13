@@ -1,702 +1,702 @@
 {
   "card0": {
-    "image": "image/mc.png",
-    "num_list": "[1396, 1345, 1705, 7786]",
-    "card_holder": "Clara Craig",
-    "card_date": "2 / 26",
-    "gradient": "[#4FE7D6, #F99789]"
+    "image": "images/mc.png",
+    "num_list": "[3854, 0499, 6486, 2433]",
+    "card_holder": "Aurelia Saenz",
+    "card_date": "8 / 26",
+    "gradient": "[#9BEA7A, #7BE753]"
   },
   "card1": {
-    "image": "images/visa.png",
-    "num_list": "[4472, 2778, 4611, 1865]",
-    "card_holder": "Rita Grimes",
-    "card_date": "3 / 31",
-    "gradient": "[#1A72AB, #FD29A1]"
+    "image": "images/mc.png",
+    "num_list": "[8946, 8715, 6546, 8616]",
+    "card_holder": "Shirley Harmer",
+    "card_date": "7 / 26",
+    "gradient": "[#CEEC47, #EC4EF7]"
   },
   "card2": {
-    "image": "image/mc.png",
-    "num_list": "[1786, 3508, 7337, 6798]",
-    "card_holder": "Robert Lee",
-    "card_date": "7 / 31",
-    "gradient": "[#E54C0D, #58F582]"
+    "image": "images/visa.png",
+    "num_list": "[2174, 2211, 3161, 7298]",
+    "card_holder": "Wendell Harris",
+    "card_date": "4 / 27",
+    "gradient": "[#87A1F9, #FAE0E1]"
   },
   "card3": {
     "image": "images/visa.png",
-    "num_list": "[1654, 9050, 0777, 1068]",
-    "card_holder": "Maria Lance",
-    "card_date": "2 / 32",
-    "gradient": "[#62112E, #93C533]"
+    "num_list": "[3602, 9127, 9979, 1013]",
+    "card_holder": "Michael Keirstead",
+    "card_date": "10 / 31",
+    "gradient": "[#233A3E, #C1CAA5]"
   },
   "card4": {
-    "image": "images/visa.png",
-    "num_list": "[2924, 7852, 9187, 9397]",
-    "card_holder": "Tony Miller",
-    "card_date": "2 / 32",
-    "gradient": "[#AF9C17, #20CDAA]"
+    "image": "images/mc.png",
+    "num_list": "[6092, 5379, 4946, 1857]",
+    "card_holder": "Brandi Graves",
+    "card_date": "6 / 24",
+    "gradient": "[#4C656A, #4FE20E]"
   },
   "card5": {
-    "image": "images/visa.png",
-    "num_list": "[3854, 6207, 5142, 9655]",
-    "card_holder": "Angelina Snow",
-    "card_date": "12 / 31",
-    "gradient": "[#B767F9, #AD6F60]"
+    "image": "images/mc.png",
+    "num_list": "[4840, 2948, 4720, 7590]",
+    "card_holder": "Dana Boggioni",
+    "card_date": "3 / 23",
+    "gradient": "[#B843E5, #F79C9A]"
   },
   "card6": {
-    "image": "image/mc.png",
-    "num_list": "[6217, 2472, 2994, 2963]",
-    "card_holder": "Wayne Taylor",
-    "card_date": "6 / 26",
-    "gradient": "[#93B0A2, #EA0C2E]"
+    "image": "images/mc.png",
+    "num_list": "[4306, 3234, 4050, 9409]",
+    "card_holder": "Barbara Moore",
+    "card_date": "8 / 22",
+    "gradient": "[#C493BA, #CBFE2A]"
   },
   "card7": {
     "image": "images/visa.png",
-    "num_list": "[9015, 4399, 3198, 1612]",
-    "card_holder": "Chester Meyer",
-    "card_date": "7 / 32",
-    "gradient": "[#62AAB5, #FE8985]"
+    "num_list": "[3368, 4578, 8173, 0962]",
+    "card_holder": "Estelle Lofaro",
+    "card_date": "3 / 29",
+    "gradient": "[#49BB75, #67F87E]"
   },
   "card8": {
-    "image": "image/mc.png",
-    "num_list": "[1708, 3423, 5602, 0118]",
-    "card_holder": "Barbara Stevens",
-    "card_date": "5 / 32",
-    "gradient": "[#0C9B92, #BD0E06]"
+    "image": "images/visa.png",
+    "num_list": "[1052, 6897, 7192, 1312]",
+    "card_holder": "Frank Perrigan",
+    "card_date": "2 / 31",
+    "gradient": "[#B426AE, #BEAFA6]"
   },
   "card9": {
-    "image": "image/mc.png",
-    "num_list": "[6720, 6388, 6085, 7730]",
-    "card_holder": "Geraldine Sanfilippo",
-    "card_date": "2 / 25",
-    "gradient": "[#402890, #3AB5F8]"
+    "image": "images/visa.png",
+    "num_list": "[0855, 2207, 1860, 4058]",
+    "card_holder": "Ramon Romney",
+    "card_date": "7 / 26",
+    "gradient": "[#457A3A, #6C2468]"
   },
   "card10": {
-    "image": "images/visa.png",
-    "num_list": "[1145, 4534, 9771, 8552]",
-    "card_holder": "Kyle Anderson",
-    "card_date": "12 / 31",
-    "gradient": "[#58E058, #9C87BB]"
+    "image": "images/mc.png",
+    "num_list": "[0831, 9382, 1839, 5031]",
+    "card_holder": "Herman Attaway",
+    "card_date": "11 / 27",
+    "gradient": "[#11A28E, #A75DF2]"
   },
   "card11": {
-    "image": "images/visa.png",
-    "num_list": "[4736, 8266, 2802, 1018]",
-    "card_holder": "Jesse Arcos",
-    "card_date": "9 / 22",
-    "gradient": "[#B70D84, #97B785]"
+    "image": "images/mc.png",
+    "num_list": "[0142, 4515, 9424, 6319]",
+    "card_holder": "Susana Brady",
+    "card_date": "8 / 27",
+    "gradient": "[#065827, #0D97DB]"
   },
   "card12": {
     "image": "images/visa.png",
-    "num_list": "[9156, 3306, 0086, 0992]",
-    "card_holder": "Carolyn Cullison",
-    "card_date": "7 / 32",
-    "gradient": "[#584C3B, #2921F8]"
+    "num_list": "[3775, 5720, 8879, 3156]",
+    "card_holder": "Colette Jeanpierre",
+    "card_date": "9 / 23",
+    "gradient": "[#F1D0C1, #CA367B]"
   },
   "card13": {
-    "image": "image/mc.png",
-    "num_list": "[4808, 8249, 1684, 3567]",
-    "card_holder": "William Goodwin",
-    "card_date": "11 / 32",
-    "gradient": "[#BB38F6, #5D2571]"
+    "image": "images/visa.png",
+    "num_list": "[6105, 1106, 3877, 2344]",
+    "card_holder": "Justin Zachery",
+    "card_date": "8 / 27",
+    "gradient": "[#F07E58, #ED3A1F]"
   },
   "card14": {
     "image": "images/visa.png",
-    "num_list": "[8252, 9002, 3929, 3973]",
-    "card_holder": "Lorrie Madden",
-    "card_date": "8 / 31",
-    "gradient": "[#50BB9A, #3803D8]"
+    "num_list": "[4182, 6967, 7848, 2340]",
+    "card_holder": "Caryl Linch",
+    "card_date": "12 / 24",
+    "gradient": "[#CB896A, #AF057D]"
   },
   "card15": {
-    "image": "image/mc.png",
-    "num_list": "[9045, 3849, 7660, 6964]",
-    "card_holder": "Spencer Gray",
-    "card_date": "6 / 29",
-    "gradient": "[#81D8FF, #9D67C5]"
+    "image": "images/mc.png",
+    "num_list": "[8473, 5003, 9690, 1732]",
+    "card_holder": "John Keisel",
+    "card_date": "2 / 31",
+    "gradient": "[#3EEF8C, #44A320]"
   },
   "card16": {
-    "image": "image/mc.png",
-    "num_list": "[7993, 4268, 8333, 4140]",
-    "card_holder": "Robert Higbee",
-    "card_date": "1 / 31",
-    "gradient": "[#02561D, #69E778]"
+    "image": "images/visa.png",
+    "num_list": "[2196, 2956, 6219, 9608]",
+    "card_holder": "Sean Christian",
+    "card_date": "11 / 26",
+    "gradient": "[#9A6FAF, #557F70]"
   },
   "card17": {
     "image": "images/visa.png",
-    "num_list": "[9461, 4025, 7706, 4793]",
-    "card_holder": "Vivian Ferrell",
-    "card_date": "9 / 29",
-    "gradient": "[#7D1910, #FF1031]"
+    "num_list": "[9446, 5004, 7489, 7518]",
+    "card_holder": "Amy Grudem",
+    "card_date": "7 / 30",
+    "gradient": "[#6D5E26, #9F22AA]"
   },
   "card18": {
-    "image": "images/visa.png",
-    "num_list": "[2476, 5647, 3965, 3499]",
-    "card_holder": "David America",
-    "card_date": "12 / 24",
-    "gradient": "[#63059E, #696A7F]"
+    "image": "images/mc.png",
+    "num_list": "[7745, 2557, 2546, 2939]",
+    "card_holder": "Danny Reiher",
+    "card_date": "9 / 30",
+    "gradient": "[#D8646E, #FB4820]"
   },
   "card19": {
-    "image": "image/mc.png",
-    "num_list": "[8966, 8166, 9829, 4063]",
-    "card_holder": "Patrick Ashley",
-    "card_date": "1 / 26",
-    "gradient": "[#7EC017, #060F00]"
+    "image": "images/visa.png",
+    "num_list": "[4118, 8737, 8085, 5998]",
+    "card_holder": "Angela Smith",
+    "card_date": "6 / 30",
+    "gradient": "[#AB79FE, #45C690]"
   },
   "card20": {
-    "image": "image/mc.png",
-    "num_list": "[3626, 0478, 1095, 5003]",
-    "card_holder": "Mattie Gaudin",
-    "card_date": "6 / 30",
-    "gradient": "[#AB54A0, #090B6D]"
+    "image": "images/visa.png",
+    "num_list": "[7719, 8298, 2431, 3133]",
+    "card_holder": "Marcia Espinal",
+    "card_date": "2 / 27",
+    "gradient": "[#2430C4, #3DCAA1]"
   },
   "card21": {
     "image": "images/visa.png",
-    "num_list": "[4702, 0597, 9627, 7130]",
-    "card_holder": "Nita Marmol",
-    "card_date": "4 / 28",
-    "gradient": "[#4D36AB, #ED333E]"
+    "num_list": "[6761, 4446, 5225, 9347]",
+    "card_holder": "Andrew Corp",
+    "card_date": "10 / 25",
+    "gradient": "[#48743F, #9071EB]"
   },
   "card22": {
-    "image": "image/mc.png",
-    "num_list": "[2194, 8249, 8788, 9540]",
-    "card_holder": "Roy Nixon",
-    "card_date": "11 / 23",
-    "gradient": "[#565193, #B8918E]"
+    "image": "images/mc.png",
+    "num_list": "[6209, 2230, 3129, 1055]",
+    "card_holder": "Martha Rexford",
+    "card_date": "5 / 28",
+    "gradient": "[#701596, #E686E8]"
   },
   "card23": {
-    "image": "images/visa.png",
-    "num_list": "[4795, 2133, 1673, 1260]",
-    "card_holder": "Gregory Mullins",
-    "card_date": "9 / 30",
-    "gradient": "[#D00A9D, #386821]"
+    "image": "images/mc.png",
+    "num_list": "[9876, 1738, 7874, 5294]",
+    "card_holder": "William Burns",
+    "card_date": "2 / 24",
+    "gradient": "[#041032, #B746C7]"
   },
   "card24": {
-    "image": "images/visa.png",
-    "num_list": "[7120, 2562, 8571, 0232]",
-    "card_holder": "Steven Travis",
-    "card_date": "4 / 23",
-    "gradient": "[#B98B33, #487AC3]"
+    "image": "images/mc.png",
+    "num_list": "[9748, 8398, 3196, 1007]",
+    "card_holder": "Simon Fetter",
+    "card_date": "11 / 24",
+    "gradient": "[#942661, #6F029B]"
   },
   "card25": {
     "image": "images/visa.png",
-    "num_list": "[7912, 1820, 2202, 0288]",
-    "card_holder": "Rick Brown",
-    "card_date": "5 / 30",
-    "gradient": "[#AF5FF1, #56D244]"
+    "num_list": "[7896, 2278, 5996, 2112]",
+    "card_holder": "Tommy Jackson",
+    "card_date": "3 / 24",
+    "gradient": "[#0467C6, #F1AFA9]"
   },
   "card26": {
     "image": "images/visa.png",
-    "num_list": "[6655, 3972, 5460, 7578]",
-    "card_holder": "Rodney Medford",
-    "card_date": "10 / 27",
-    "gradient": "[#D6FA58, #469C01]"
+    "num_list": "[6261, 2993, 6236, 6145]",
+    "card_holder": "Katherine Mannella",
+    "card_date": "11 / 22",
+    "gradient": "[#B86718, #07F4DF]"
   },
   "card27": {
-    "image": "image/mc.png",
-    "num_list": "[3990, 1596, 7960, 0891]",
-    "card_holder": "Sam Jones",
-    "card_date": "5 / 31",
-    "gradient": "[#98A3C0, #9156E4]"
+    "image": "images/visa.png",
+    "num_list": "[0980, 6922, 3110, 8368]",
+    "card_holder": "Sylvia Allen",
+    "card_date": "9 / 27",
+    "gradient": "[#4A75F1, #8A3DA2]"
   },
   "card28": {
-    "image": "image/mc.png",
-    "num_list": "[1337, 3047, 8686, 2781]",
-    "card_holder": "Latonya Goodman",
-    "card_date": "7 / 27",
-    "gradient": "[#62E6C9, #940AF6]"
+    "image": "images/visa.png",
+    "num_list": "[4113, 8939, 2580, 5777]",
+    "card_holder": "Jutta Porter",
+    "card_date": "10 / 27",
+    "gradient": "[#319A51, #E04039]"
   },
   "card29": {
-    "image": "image/mc.png",
-    "num_list": "[0058, 6510, 2447, 4914]",
-    "card_holder": "Ann Hobbs",
-    "card_date": "12 / 22",
-    "gradient": "[#2815F6, #19F19C]"
+    "image": "images/mc.png",
+    "num_list": "[1771, 3440, 0422, 0240]",
+    "card_holder": "Donald Dungey",
+    "card_date": "8 / 24",
+    "gradient": "[#6CC5A3, #B52ED9]"
   },
   "card30": {
-    "image": "images/visa.png",
-    "num_list": "[9588, 5418, 0498, 8240]",
-    "card_holder": "China Kennedy",
-    "card_date": "10 / 25",
-    "gradient": "[#3C6DE4, #A95BD4]"
+    "image": "images/mc.png",
+    "num_list": "[9715, 6654, 1717, 4869]",
+    "card_holder": "Mark Reid",
+    "card_date": "3 / 29",
+    "gradient": "[#92A738, #1D99ED]"
   },
   "card31": {
     "image": "images/visa.png",
-    "num_list": "[9666, 4901, 5074, 3513]",
-    "card_holder": "Kevin Inman",
-    "card_date": "1 / 24",
-    "gradient": "[#EEBA79, #817ADE]"
+    "num_list": "[8348, 7991, 2606, 8019]",
+    "card_holder": "Marian Govea",
+    "card_date": "6 / 26",
+    "gradient": "[#F3D4F7, #BC9436]"
   },
   "card32": {
     "image": "images/visa.png",
-    "num_list": "[9868, 4988, 1282, 6542]",
-    "card_holder": "Marlin Robinson",
-    "card_date": "8 / 24",
-    "gradient": "[#BB5366, #3304D5]"
+    "num_list": "[5581, 9366, 2594, 1836]",
+    "card_holder": "Rex Stange",
+    "card_date": "11 / 22",
+    "gradient": "[#EE8E0F, #9722E3]"
   },
   "card33": {
-    "image": "image/mc.png",
-    "num_list": "[2668, 2417, 7684, 4858]",
-    "card_holder": "Erasmo Wilson",
-    "card_date": "6 / 24",
-    "gradient": "[#524D45, #8B7BA5]"
+    "image": "images/visa.png",
+    "num_list": "[0417, 3592, 8887, 1634]",
+    "card_holder": "Ernest Phelps",
+    "card_date": "5 / 25",
+    "gradient": "[#008F27, #1EED31]"
   },
   "card34": {
-    "image": "image/mc.png",
-    "num_list": "[8993, 7549, 9791, 5711]",
-    "card_holder": "Lena Spencer",
-    "card_date": "8 / 30",
-    "gradient": "[#C88FCD, #22FBF9]"
+    "image": "images/mc.png",
+    "num_list": "[6692, 3420, 4599, 1741]",
+    "card_holder": "Gregg Bloom",
+    "card_date": "1 / 27",
+    "gradient": "[#1A29A2, #505F7F]"
   },
   "card35": {
-    "image": "image/mc.png",
-    "num_list": "[2278, 4546, 7698, 8345]",
-    "card_holder": "Rosario Kilman",
-    "card_date": "9 / 23",
-    "gradient": "[#DCD530, #1AAE75]"
+    "image": "images/visa.png",
+    "num_list": "[6835, 3929, 7247, 5637]",
+    "card_holder": "Alex Turner",
+    "card_date": "8 / 32",
+    "gradient": "[#0F3664, #FD482B]"
   },
   "card36": {
-    "image": "image/mc.png",
-    "num_list": "[5262, 8776, 8202, 5761]",
-    "card_holder": "Angela Garcia",
-    "card_date": "5 / 30",
-    "gradient": "[#A7C02B, #E0DF2F]"
+    "image": "images/mc.png",
+    "num_list": "[4806, 6767, 7672, 3658]",
+    "card_holder": "Williams Anderson",
+    "card_date": "9 / 26",
+    "gradient": "[#E167D9, #F092E0]"
   },
   "card37": {
-    "image": "images/visa.png",
-    "num_list": "[2067, 8927, 0180, 7400]",
-    "card_holder": "Kenneth Kues",
-    "card_date": "4 / 27",
-    "gradient": "[#9DC591, #6D80A9]"
+    "image": "images/mc.png",
+    "num_list": "[2613, 1831, 8877, 3870]",
+    "card_holder": "Terrence Rosenblum",
+    "card_date": "12 / 31",
+    "gradient": "[#46836F, #A6C01A]"
   },
   "card38": {
     "image": "images/visa.png",
-    "num_list": "[7626, 4232, 7185, 5867]",
-    "card_holder": "Mary Clinton",
-    "card_date": "3 / 27",
-    "gradient": "[#6F2C7D, #FF37AF]"
+    "num_list": "[2940, 1508, 4782, 7173]",
+    "card_holder": "Ana Walker",
+    "card_date": "6 / 23",
+    "gradient": "[#273803, #271B1C]"
   },
   "card39": {
-    "image": "images/visa.png",
-    "num_list": "[2933, 3271, 4451, 1373]",
-    "card_holder": "James Jackson",
-    "card_date": "9 / 24",
-    "gradient": "[#9424D7, #CF6AE8]"
+    "image": "images/mc.png",
+    "num_list": "[3112, 4965, 7789, 7158]",
+    "card_holder": "Janice Betance",
+    "card_date": "6 / 23",
+    "gradient": "[#BAC845, #D866E9]"
   },
   "card40": {
-    "image": "images/visa.png",
-    "num_list": "[5557, 1720, 8895, 2512]",
-    "card_holder": "Andrea Shones",
-    "card_date": "10 / 23",
-    "gradient": "[#827A54, #456157]"
+    "image": "images/mc.png",
+    "num_list": "[0822, 4235, 9975, 5211]",
+    "card_holder": "Kyle Laderman",
+    "card_date": "2 / 28",
+    "gradient": "[#A556EA, #9F06FE]"
   },
   "card41": {
-    "image": "image/mc.png",
-    "num_list": "[9119, 9226, 8974, 4504]",
-    "card_holder": "Whitney Derks",
-    "card_date": "7 / 29",
-    "gradient": "[#000012, #CF37A5]"
+    "image": "images/visa.png",
+    "num_list": "[2864, 3125, 9559, 5454]",
+    "card_holder": "Marie Brooks",
+    "card_date": "10 / 23",
+    "gradient": "[#5EB5A4, #D8A125]"
   },
   "card42": {
-    "image": "images/visa.png",
-    "num_list": "[5210, 7625, 4147, 6763]",
-    "card_holder": "Charlotte Phillip",
-    "card_date": "2 / 25",
-    "gradient": "[#C601E9, #BD7941]"
+    "image": "images/mc.png",
+    "num_list": "[1938, 3610, 9005, 3688]",
+    "card_holder": "Randall Jones",
+    "card_date": "12 / 31",
+    "gradient": "[#401095, #B71BB8]"
   },
   "card43": {
-    "image": "image/mc.png",
-    "num_list": "[4393, 4129, 3623, 5335]",
-    "card_holder": "Shannon Magoun",
-    "card_date": "6 / 24",
-    "gradient": "[#B5A386, #57D6B9]"
+    "image": "images/visa.png",
+    "num_list": "[4148, 6131, 9273, 4339]",
+    "card_holder": "Edward Double",
+    "card_date": "10 / 28",
+    "gradient": "[#D62539, #E8F479]"
   },
   "card44": {
-    "image": "image/mc.png",
-    "num_list": "[1584, 4285, 7937, 4040]",
-    "card_holder": "Roosevelt Fragoso",
-    "card_date": "9 / 27",
-    "gradient": "[#9DACF2, #04598D]"
+    "image": "images/visa.png",
+    "num_list": "[6791, 8169, 0530, 8754]",
+    "card_holder": "John Diaz",
+    "card_date": "7 / 24",
+    "gradient": "[#A8DC0D, #32B956]"
   },
   "card45": {
-    "image": "images/visa.png",
-    "num_list": "[4939, 5004, 1067, 6820]",
-    "card_holder": "Esther Ali",
-    "card_date": "1 / 32",
-    "gradient": "[#C21ECE, #B9A67B]"
+    "image": "images/mc.png",
+    "num_list": "[3727, 4058, 9507, 9259]",
+    "card_holder": "Edna Peters",
+    "card_date": "9 / 25",
+    "gradient": "[#71A250, #BCFC0E]"
   },
   "card46": {
-    "image": "image/mc.png",
-    "num_list": "[5995, 9110, 1002, 5852]",
-    "card_holder": "Edward Bruner",
-    "card_date": "9 / 28",
-    "gradient": "[#8CC9BB, #6EE8F4]"
+    "image": "images/mc.png",
+    "num_list": "[3170, 1258, 7087, 6377]",
+    "card_holder": "Charlotte Mikeska",
+    "card_date": "3 / 30",
+    "gradient": "[#B409E0, #FEDEF0]"
   },
   "card47": {
-    "image": "images/visa.png",
-    "num_list": "[9722, 9419, 2920, 5678]",
-    "card_holder": "Wendy Hendrikson",
-    "card_date": "1 / 22",
-    "gradient": "[#336BA7, #93BE64]"
+    "image": "images/mc.png",
+    "num_list": "[7076, 9462, 7684, 2699]",
+    "card_holder": "Mary Mcalpin",
+    "card_date": "10 / 23",
+    "gradient": "[#453F01, #F5DACA]"
   },
   "card48": {
     "image": "images/visa.png",
-    "num_list": "[5732, 6760, 6910, 2187]",
-    "card_holder": "Joe Nash",
-    "card_date": "9 / 25",
-    "gradient": "[#5D2DEE, #CB3661]"
+    "num_list": "[7564, 4039, 3552, 1031]",
+    "card_holder": "Bradley Weinberg",
+    "card_date": "4 / 22",
+    "gradient": "[#ADA2CB, #73D637]"
   },
   "card49": {
-    "image": "image/mc.png",
-    "num_list": "[0780, 4516, 2264, 1165]",
-    "card_holder": "Damian Simpson",
-    "card_date": "1 / 29",
-    "gradient": "[#DD6CFB, #436FAC]"
+    "image": "images/visa.png",
+    "num_list": "[9105, 4827, 6066, 3848]",
+    "card_holder": "Annie Battle",
+    "card_date": "10 / 28",
+    "gradient": "[#D0E089, #C375A1]"
   },
   "card50": {
     "image": "images/visa.png",
-    "num_list": "[8820, 8427, 5675, 0300]",
-    "card_holder": "Donna Reynolds",
-    "card_date": "7 / 28",
-    "gradient": "[#0CC29F, #CAA7D4]"
+    "num_list": "[8038, 3370, 4779, 4784]",
+    "card_holder": "Diane Revilla",
+    "card_date": "6 / 31",
+    "gradient": "[#3558CE, #19B3A3]"
   },
   "card51": {
     "image": "images/visa.png",
-    "num_list": "[6046, 9840, 3013, 0470]",
-    "card_holder": "Brent Mccloughan",
-    "card_date": "9 / 26",
-    "gradient": "[#35F622, #322CAF]"
+    "num_list": "[6739, 9281, 3057, 2202]",
+    "card_holder": "Lindsey Bernes",
+    "card_date": "2 / 23",
+    "gradient": "[#E275BB, #1EEE47]"
   },
   "card52": {
-    "image": "image/mc.png",
-    "num_list": "[6216, 7816, 2712, 9551]",
-    "card_holder": "Kaye Barkdoll",
-    "card_date": "10 / 30",
-    "gradient": "[#FDC185, #82918D]"
+    "image": "images/mc.png",
+    "num_list": "[1488, 2804, 1204, 7152]",
+    "card_holder": "John Pelletier",
+    "card_date": "5 / 28",
+    "gradient": "[#53177E, #1F5E40]"
   },
   "card53": {
-    "image": "images/visa.png",
-    "num_list": "[1549, 5509, 9729, 2200]",
-    "card_holder": "Tony Padilla",
-    "card_date": "1 / 25",
-    "gradient": "[#92C634, #771EA8]"
+    "image": "images/mc.png",
+    "num_list": "[7861, 0833, 4174, 5515]",
+    "card_holder": "Frank Gerdes",
+    "card_date": "4 / 31",
+    "gradient": "[#759126, #9619EA]"
   },
   "card54": {
-    "image": "image/mc.png",
-    "num_list": "[7153, 4619, 5405, 2303]",
-    "card_holder": "Ryan Golden",
-    "card_date": "4 / 24",
-    "gradient": "[#855E37, #9622FE]"
+    "image": "images/visa.png",
+    "num_list": "[6227, 3385, 1056, 5131]",
+    "card_holder": "Laurie Williams",
+    "card_date": "5 / 27",
+    "gradient": "[#7BBF46, #03DFAB]"
   },
   "card55": {
-    "image": "image/mc.png",
-    "num_list": "[1956, 3065, 1259, 4266]",
-    "card_holder": "Tammy Crouse",
-    "card_date": "5 / 30",
-    "gradient": "[#E9620E, #78B785]"
+    "image": "images/mc.png",
+    "num_list": "[7359, 0429, 8759, 1444]",
+    "card_holder": "Fred Giel",
+    "card_date": "3 / 28",
+    "gradient": "[#E4CA3F, #8B9E1D]"
   },
   "card56": {
-    "image": "image/mc.png",
-    "num_list": "[5299, 1556, 2359, 9236]",
-    "card_holder": "James Boyle",
-    "card_date": "9 / 29",
-    "gradient": "[#A6BA70, #12DC24]"
+    "image": "images/visa.png",
+    "num_list": "[2110, 2281, 9715, 0143]",
+    "card_holder": "Robert Shiba",
+    "card_date": "10 / 24",
+    "gradient": "[#DCF144, #E0705C]"
   },
   "card57": {
-    "image": "images/visa.png",
-    "num_list": "[5592, 3597, 4370, 8434]",
-    "card_holder": "Mary Duren",
-    "card_date": "11 / 31",
-    "gradient": "[#FE0F35, #44CFC1]"
+    "image": "images/mc.png",
+    "num_list": "[1492, 4057, 4341, 1943]",
+    "card_holder": "Benjamin Stafford",
+    "card_date": "8 / 24",
+    "gradient": "[#72877F, #4237B7]"
   },
   "card58": {
     "image": "images/visa.png",
-    "num_list": "[9928, 7111, 9976, 2244]",
-    "card_holder": "Elizabeth Huddleston",
-    "card_date": "7 / 28",
-    "gradient": "[#3801C0, #8F5C36]"
+    "num_list": "[0717, 0407, 0998, 0021]",
+    "card_holder": "Dave Brunelle",
+    "card_date": "6 / 30",
+    "gradient": "[#A24041, #428601]"
   },
   "card59": {
-    "image": "image/mc.png",
-    "num_list": "[5630, 5681, 2396, 5217]",
-    "card_holder": "Tara Houston",
-    "card_date": "4 / 32",
-    "gradient": "[#0A53C5, #8898DC]"
+    "image": "images/mc.png",
+    "num_list": "[0556, 2048, 2224, 6831]",
+    "card_holder": "April Pergande",
+    "card_date": "8 / 24",
+    "gradient": "[#BF8508, #76CA77]"
   },
   "card60": {
-    "image": "image/mc.png",
-    "num_list": "[8276, 3434, 6685, 5799]",
-    "card_holder": "Susan Garcia",
-    "card_date": "7 / 25",
-    "gradient": "[#2B482A, #1F55FF]"
+    "image": "images/visa.png",
+    "num_list": "[2715, 6301, 4575, 8073]",
+    "card_holder": "Deborah Edwards",
+    "card_date": "2 / 24",
+    "gradient": "[#BD6366, #04DBAE]"
   },
   "card61": {
     "image": "images/visa.png",
-    "num_list": "[7903, 8441, 1579, 4108]",
-    "card_holder": "Louis Burke",
-    "card_date": "5 / 32",
-    "gradient": "[#7A7D0B, #C6CDC7]"
+    "num_list": "[5099, 8244, 4615, 0950]",
+    "card_holder": "Charles Wolfe",
+    "card_date": "8 / 22",
+    "gradient": "[#C0EC00, #5F7995]"
   },
   "card62": {
-    "image": "image/mc.png",
-    "num_list": "[2302, 2566, 2693, 5010]",
-    "card_holder": "Clara Robinson",
-    "card_date": "5 / 28",
-    "gradient": "[#2F87C7, #100F60]"
+    "image": "images/mc.png",
+    "num_list": "[7109, 9853, 3403, 9930]",
+    "card_holder": "Shannon Espinoza",
+    "card_date": "12 / 28",
+    "gradient": "[#CE2572, #22C360]"
   },
   "card63": {
     "image": "images/visa.png",
-    "num_list": "[1910, 3349, 1372, 5907]",
-    "card_holder": "John Martinez",
-    "card_date": "8 / 31",
-    "gradient": "[#D4F452, #949A86]"
+    "num_list": "[2943, 3794, 4614, 2427]",
+    "card_holder": "Melissa Johnson",
+    "card_date": "10 / 30",
+    "gradient": "[#CA2A38, #D33D08]"
   },
   "card64": {
     "image": "images/visa.png",
-    "num_list": "[7608, 1784, 7247, 3742]",
-    "card_holder": "Barry Hepburn",
-    "card_date": "11 / 30",
-    "gradient": "[#422FD4, #D5843F]"
+    "num_list": "[7094, 9796, 2093, 6096]",
+    "card_holder": "Dale Walker",
+    "card_date": "5 / 24",
+    "gradient": "[#E63B06, #8DDFCE]"
   },
   "card65": {
-    "image": "images/visa.png",
-    "num_list": "[3757, 6323, 2720, 3298]",
-    "card_holder": "Andrea Simard",
-    "card_date": "2 / 32",
-    "gradient": "[#1543CF, #0DF7C4]"
+    "image": "images/mc.png",
+    "num_list": "[6923, 7547, 1687, 5093]",
+    "card_holder": "Lorraine Marczak",
+    "card_date": "2 / 31",
+    "gradient": "[#32EAC5, #101D80]"
   },
   "card66": {
-    "image": "images/visa.png",
-    "num_list": "[6534, 7020, 3365, 9677]",
-    "card_holder": "Jason Renz",
-    "card_date": "6 / 22",
-    "gradient": "[#4BC205, #0058ED]"
+    "image": "images/mc.png",
+    "num_list": "[3074, 0136, 8969, 7836]",
+    "card_holder": "Lauren Gattison",
+    "card_date": "2 / 24",
+    "gradient": "[#A6E7B1, #3C2D20]"
   },
   "card67": {
-    "image": "image/mc.png",
-    "num_list": "[8729, 5420, 4509, 3003]",
-    "card_holder": "Brittany Keams",
-    "card_date": "10 / 22",
-    "gradient": "[#0068C3, #784ABC]"
+    "image": "images/mc.png",
+    "num_list": "[6883, 2851, 3874, 7266]",
+    "card_holder": "Virgie Curry",
+    "card_date": "4 / 32",
+    "gradient": "[#08C8F4, #AC6714]"
   },
   "card68": {
     "image": "images/visa.png",
-    "num_list": "[0857, 2648, 8181, 2077]",
-    "card_holder": "Virginia Sibrel",
-    "card_date": "11 / 29",
-    "gradient": "[#F505F5, #737AEE]"
+    "num_list": "[4034, 5698, 7223, 1942]",
+    "card_holder": "Linda Blakely",
+    "card_date": "10 / 32",
+    "gradient": "[#7A93F8, #5ABE10]"
   },
   "card69": {
-    "image": "images/visa.png",
-    "num_list": "[3030, 5344, 0033, 8696]",
-    "card_holder": "Tina Keefe",
-    "card_date": "3 / 28",
-    "gradient": "[#7416EF, #285AE5]"
+    "image": "images/mc.png",
+    "num_list": "[1876, 5551, 6577, 6948]",
+    "card_holder": "Sue Mcbride",
+    "card_date": "9 / 26",
+    "gradient": "[#D793CE, #4D0923]"
   },
   "card70": {
     "image": "images/visa.png",
-    "num_list": "[0022, 2769, 6391, 7109]",
-    "card_holder": "Travis Hewitt",
-    "card_date": "2 / 24",
-    "gradient": "[#C9E456, #0299B0]"
+    "num_list": "[2031, 4958, 4683, 5568]",
+    "card_holder": "Howard Haase",
+    "card_date": "11 / 26",
+    "gradient": "[#F9F2AD, #A30EC3]"
   },
   "card71": {
-    "image": "images/visa.png",
-    "num_list": "[6183, 9297, 5471, 5332]",
-    "card_holder": "Stacy Miller",
-    "card_date": "5 / 27",
-    "gradient": "[#D8C595, #F3C777]"
+    "image": "images/mc.png",
+    "num_list": "[3356, 2052, 0273, 5111]",
+    "card_holder": "Ruby Brown",
+    "card_date": "10 / 27",
+    "gradient": "[#5D6402, #FF9A94]"
   },
   "card72": {
-    "image": "image/mc.png",
-    "num_list": "[5295, 5003, 7698, 5253]",
-    "card_holder": "George Fayne",
-    "card_date": "4 / 24",
-    "gradient": "[#399CFC, #B4006A]"
+    "image": "images/mc.png",
+    "num_list": "[7080, 7996, 0633, 0908]",
+    "card_holder": "Andrew Covey",
+    "card_date": "4 / 30",
+    "gradient": "[#DFCFA3, #5B1B97]"
   },
   "card73": {
-    "image": "image/mc.png",
-    "num_list": "[0128, 0849, 4724, 0757]",
-    "card_holder": "Theresa Jackson",
-    "card_date": "6 / 32",
-    "gradient": "[#811730, #62E2AB]"
+    "image": "images/visa.png",
+    "num_list": "[4311, 1699, 9219, 0352]",
+    "card_holder": "Sylvia Hricko",
+    "card_date": "6 / 24",
+    "gradient": "[#C2D8EC, #B13B89]"
   },
   "card74": {
-    "image": "images/visa.png",
-    "num_list": "[3482, 4722, 0040, 6951]",
-    "card_holder": "Cory Franklin",
-    "card_date": "8 / 29",
-    "gradient": "[#8A3774, #2110BC]"
+    "image": "images/mc.png",
+    "num_list": "[2820, 9654, 0081, 6017]",
+    "card_holder": "Leslie Nelson",
+    "card_date": "6 / 24",
+    "gradient": "[#C27576, #35E274]"
   },
   "card75": {
-    "image": "images/visa.png",
-    "num_list": "[6134, 3027, 8789, 7027]",
-    "card_holder": "Barbara Davis",
-    "card_date": "6 / 32",
-    "gradient": "[#34425E, #0E5246]"
+    "image": "images/mc.png",
+    "num_list": "[3434, 5471, 9953, 2753]",
+    "card_holder": "Joyce Morrow",
+    "card_date": "5 / 28",
+    "gradient": "[#6B2308, #A31D9A]"
   },
   "card76": {
-    "image": "image/mc.png",
-    "num_list": "[4059, 1825, 8941, 8542]",
-    "card_holder": "Mary Schultz",
-    "card_date": "8 / 32",
-    "gradient": "[#294BCD, #3B8807]"
+    "image": "images/mc.png",
+    "num_list": "[0028, 5664, 8729, 7052]",
+    "card_holder": "Josephine May",
+    "card_date": "8 / 31",
+    "gradient": "[#1E1F70, #9CD2B0]"
   },
   "card77": {
-    "image": "images/visa.png",
-    "num_list": "[5159, 2687, 0634, 5198]",
-    "card_holder": "Joe Basinski",
-    "card_date": "12 / 23",
-    "gradient": "[#659ADD, #9F36C7]"
+    "image": "images/mc.png",
+    "num_list": "[3740, 6283, 6308, 0158]",
+    "card_holder": "John Chaney",
+    "card_date": "5 / 27",
+    "gradient": "[#9D27C0, #C1FFAB]"
   },
   "card78": {
     "image": "images/visa.png",
-    "num_list": "[1369, 4367, 9573, 7997]",
-    "card_holder": "Dennis Heidema",
-    "card_date": "8 / 22",
-    "gradient": "[#AFC3B2, #BAE55D]"
+    "num_list": "[9122, 4594, 9361, 6966]",
+    "card_holder": "Leroy Weisberg",
+    "card_date": "8 / 31",
+    "gradient": "[#789637, #A61167]"
   },
   "card79": {
     "image": "images/visa.png",
-    "num_list": "[7269, 0186, 0035, 4408]",
-    "card_holder": "Ralph Lisbey",
-    "card_date": "2 / 31",
-    "gradient": "[#3EB2D4, #4A3D1B]"
+    "num_list": "[7784, 3599, 3034, 2070]",
+    "card_holder": "Leo Rodrigues",
+    "card_date": "12 / 24",
+    "gradient": "[#708603, #2A71B8]"
   },
   "card80": {
-    "image": "image/mc.png",
-    "num_list": "[9574, 5079, 4602, 1957]",
-    "card_holder": "Robert Bowen",
-    "card_date": "2 / 24",
-    "gradient": "[#8DCEBA, #ABF149]"
+    "image": "images/visa.png",
+    "num_list": "[8478, 4859, 8262, 8884]",
+    "card_holder": "Patricia Oster",
+    "card_date": "3 / 26",
+    "gradient": "[#5237C9, #8B072D]"
   },
   "card81": {
     "image": "images/visa.png",
-    "num_list": "[7205, 0480, 5581, 7708]",
-    "card_holder": "Tommy Mckinney",
-    "card_date": "7 / 27",
-    "gradient": "[#1219A6, #9B74F8]"
+    "num_list": "[0800, 8957, 4919, 1166]",
+    "card_holder": "John Maples",
+    "card_date": "4 / 23",
+    "gradient": "[#7891F4, #B8B629]"
   },
   "card82": {
-    "image": "images/visa.png",
-    "num_list": "[1980, 7427, 1700, 2707]",
-    "card_holder": "Trent Smith",
-    "card_date": "5 / 28",
-    "gradient": "[#F6D3FB, #CFE6A0]"
+    "image": "images/mc.png",
+    "num_list": "[3677, 6736, 7114, 3969]",
+    "card_holder": "Luis Campbell",
+    "card_date": "4 / 30",
+    "gradient": "[#D186AC, #FCA0C4]"
   },
   "card83": {
-    "image": "images/visa.png",
-    "num_list": "[4521, 9538, 4142, 4811]",
-    "card_holder": "Maria Evans",
-    "card_date": "1 / 32",
-    "gradient": "[#04D176, #94D979]"
+    "image": "images/mc.png",
+    "num_list": "[0870, 1979, 3294, 2292]",
+    "card_holder": "Lloyd Bardo",
+    "card_date": "3 / 24",
+    "gradient": "[#AC3BDA, #41474D]"
   },
   "card84": {
-    "image": "image/mc.png",
-    "num_list": "[7296, 3518, 6074, 9174]",
-    "card_holder": "Kelli Grignon",
-    "card_date": "8 / 32",
-    "gradient": "[#1D5242, #EDA5E1]"
+    "image": "images/mc.png",
+    "num_list": "[6192, 1926, 3618, 3089]",
+    "card_holder": "Joseph Wallace",
+    "card_date": "11 / 28",
+    "gradient": "[#8F93C0, #8D1106]"
   },
   "card85": {
-    "image": "images/visa.png",
-    "num_list": "[1155, 2013, 6927, 0022]",
-    "card_holder": "Percy Williams",
-    "card_date": "6 / 24",
-    "gradient": "[#06EB9F, #915005]"
+    "image": "images/mc.png",
+    "num_list": "[1310, 9432, 0256, 1093]",
+    "card_holder": "Stephanie Garcia",
+    "card_date": "10 / 27",
+    "gradient": "[#A748E7, #A620E5]"
   },
   "card86": {
-    "image": "image/mc.png",
-    "num_list": "[4306, 4277, 7348, 6333]",
-    "card_holder": "Earl Myers",
-    "card_date": "7 / 29",
-    "gradient": "[#903AD4, #9D31F5]"
+    "image": "images/visa.png",
+    "num_list": "[3887, 9034, 3830, 6476]",
+    "card_holder": "Richard Cavanaugh",
+    "card_date": "10 / 31",
+    "gradient": "[#964FF6, #D0A988]"
   },
   "card87": {
-    "image": "images/visa.png",
-    "num_list": "[2315, 2477, 6614, 0985]",
-    "card_holder": "Claude Piatek",
-    "card_date": "3 / 25",
-    "gradient": "[#2B1F41, #1A9D47]"
+    "image": "images/mc.png",
+    "num_list": "[6476, 0762, 9271, 3387]",
+    "card_holder": "Ollie Holmes",
+    "card_date": "6 / 25",
+    "gradient": "[#2371D1, #B76EEC]"
   },
   "card88": {
-    "image": "image/mc.png",
-    "num_list": "[0922, 9816, 6038, 9718]",
-    "card_holder": "Monica Marquess",
-    "card_date": "1 / 31",
-    "gradient": "[#029837, #AC7BD9]"
+    "image": "images/visa.png",
+    "num_list": "[9130, 2039, 2168, 3373]",
+    "card_holder": "Tiffany Blake",
+    "card_date": "11 / 30",
+    "gradient": "[#39A75B, #2CACB4]"
   },
   "card89": {
-    "image": "images/visa.png",
-    "num_list": "[7244, 5285, 4447, 0937]",
-    "card_holder": "Kimberly Hemenway",
-    "card_date": "6 / 27",
-    "gradient": "[#BA30D9, #B756F4]"
+    "image": "images/mc.png",
+    "num_list": "[3605, 9059, 1585, 5169]",
+    "card_holder": "Chad Jordon",
+    "card_date": "6 / 29",
+    "gradient": "[#506DCA, #04164D]"
   },
   "card90": {
-    "image": "image/mc.png",
-    "num_list": "[9455, 2751, 1247, 8278]",
-    "card_holder": "Cecilia Ostler",
-    "card_date": "8 / 29",
-    "gradient": "[#4CD0D5, #7DFC69]"
+    "image": "images/visa.png",
+    "num_list": "[8751, 7491, 5662, 7353]",
+    "card_holder": "Tammy Funes",
+    "card_date": "6 / 30",
+    "gradient": "[#8C8F20, #6C17C8]"
   },
   "card91": {
-    "image": "image/mc.png",
-    "num_list": "[3389, 8430, 2202, 2608]",
-    "card_holder": "Ruthe Lewis",
-    "card_date": "11 / 22",
-    "gradient": "[#2453A6, #4FF6CE]"
+    "image": "images/mc.png",
+    "num_list": "[2164, 9441, 2967, 5747]",
+    "card_holder": "David Spires",
+    "card_date": "10 / 23",
+    "gradient": "[#722D3A, #F914F0]"
   },
   "card92": {
-    "image": "image/mc.png",
-    "num_list": "[1013, 1329, 7979, 4617]",
-    "card_holder": "Ronald Hall",
-    "card_date": "12 / 28",
-    "gradient": "[#78843C, #6782EE]"
+    "image": "images/mc.png",
+    "num_list": "[6625, 0506, 8497, 2483]",
+    "card_holder": "William Murphy",
+    "card_date": "11 / 24",
+    "gradient": "[#C9749E, #10E967]"
   },
   "card93": {
     "image": "images/visa.png",
-    "num_list": "[6802, 2355, 3939, 3387]",
-    "card_holder": "Matthew Castellanos",
-    "card_date": "7 / 30",
-    "gradient": "[#D7678D, #0E5748]"
+    "num_list": "[2647, 3499, 6024, 0173]",
+    "card_holder": "Minnie Robinson",
+    "card_date": "10 / 30",
+    "gradient": "[#DD11B2, #1DEDA4]"
   },
   "card94": {
-    "image": "image/mc.png",
-    "num_list": "[0707, 7908, 6032, 6654]",
-    "card_holder": "Chet Dunham",
-    "card_date": "7 / 25",
-    "gradient": "[#CB7326, #FE5825]"
+    "image": "images/visa.png",
+    "num_list": "[5619, 1342, 7408, 5721]",
+    "card_holder": "Ramon Morey",
+    "card_date": "5 / 22",
+    "gradient": "[#9442A1, #03A95C]"
   },
   "card95": {
-    "image": "image/mc.png",
-    "num_list": "[7729, 3174, 3479, 4672]",
-    "card_holder": "Brenda Cerna",
-    "card_date": "6 / 29",
-    "gradient": "[#048CDF, #7B0097]"
+    "image": "images/visa.png",
+    "num_list": "[1546, 8274, 3878, 0926]",
+    "card_holder": "Holly Powers",
+    "card_date": "8 / 30",
+    "gradient": "[#733337, #D0B406]"
   },
   "card96": {
-    "image": "image/mc.png",
-    "num_list": "[4902, 2208, 4026, 6479]",
-    "card_holder": "Pearline Gildersleeve",
-    "card_date": "8 / 26",
-    "gradient": "[#8DD2B5, #A97E5A]"
+    "image": "images/mc.png",
+    "num_list": "[1020, 8563, 6030, 8292]",
+    "card_holder": "Charles Austin",
+    "card_date": "5 / 23",
+    "gradient": "[#74FC78, #3B0BD4]"
   },
   "card97": {
-    "image": "image/mc.png",
-    "num_list": "[6373, 0006, 6629, 9711]",
-    "card_holder": "Marnie Williams",
+    "image": "images/mc.png",
+    "num_list": "[5485, 6990, 1058, 5267]",
+    "card_holder": "Robert Banks",
     "card_date": "10 / 25",
-    "gradient": "[#B3962C, #1CD296]"
+    "gradient": "[#DCABEF, #8A1438]"
   },
   "card98": {
-    "image": "images/visa.png",
-    "num_list": "[3141, 2691, 2296, 4080]",
-    "card_holder": "Beverly Williamson",
-    "card_date": "4 / 32",
-    "gradient": "[#0F631E, #F55F6E]"
+    "image": "images/mc.png",
+    "num_list": "[7577, 1996, 6975, 5813]",
+    "card_holder": "William Smith",
+    "card_date": "7 / 24",
+    "gradient": "[#623640, #534651]"
   },
   "card99": {
-    "image": "image/mc.png",
-    "num_list": "[1243, 8962, 2917, 1549]",
-    "card_holder": "Marty Spies",
-    "card_date": "1 / 25",
-    "gradient": "[#7FBD9A, #1BDC55]"
+    "image": "images/mc.png",
+    "num_list": "[6755, 3156, 8759, 1047]",
+    "card_holder": "Nikole Walker",
+    "card_date": "1 / 30",
+    "gradient": "[#6578B9, #0A2164]"
   }
 }
